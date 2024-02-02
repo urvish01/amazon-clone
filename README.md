@@ -54,8 +54,6 @@ This project is a shopping website that looks like Amazon website
 ## ℹ️ How To Use
 
 ```bash
-# Clone the repository
-git clone https://github.com/no2ehi/full-amazon-clone
 
 # Go into the directory
 cd full-amazon-clone
